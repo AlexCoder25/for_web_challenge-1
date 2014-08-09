@@ -125,7 +125,7 @@ section {
 
 .block {
     width: 380px;
-    height: 540px;
+    height: auto;
 
     margin: 0 auto;
     padding-top: 80px;
@@ -199,11 +199,11 @@ main .content .lead {
 main footer .social {
     padding-left: 60px;
     padding-right: 60px;
+    padding-bottom: 60px;
+    margin: 6em 0 0 0;
 
-    margin: 6rem 0 0;
 
     text-align: center;
-    padding: 0;
     list-style: none;
 }
 
