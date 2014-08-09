@@ -153,26 +153,26 @@ main .avatar {
     background-size: 100%;
 }
 
-main .content {
+main article {
     margin-top: 40px;
     text-align: center;
     font-weight: 300;
     cursor: default;
 }
 
-main .content .title {
+main article .title {
     color: #FFFFFF;
     font-size: 1.4rem;
     margin: 0;
 }
 
-main .content .subtitle {
+main article .subtitle {
     color: #648EC6;
     font-size: 1.15rem;
     margin: .4rem;
 }
 
-main .content .sign {
+main article .sign {
     width: 36px;
     height: 17px;
 
@@ -185,7 +185,7 @@ main .content .sign {
     background-position: center;
 }
 
-main .content .lead {
+main article .lead {
     padding-left: 50px;
     padding-right: 50px;
 
