@@ -264,20 +264,20 @@ main footer .social li {
 
 .social .icon-linked_in a {
     width: 33px;
-    height: 32px;
+    height: 31px;
 
-    -webkit-background-size: 100px;
-    background-size: 100px;
-    background-position: 33px 1px;
+    -webkit-background-size: 98px;
+    background-size: 98px;
+    background-position: 32px 1px;
 }
 .social .icon-linked_in a:hover {
     width: 33px;
-    height: 32px;
+    height: 31px;
     opacity: 1;
 
-    -webkit-background-size: 100px;
-    background-size: 100px;
-    background-position: 33px 35px;
+    -webkit-background-size: 98px;
+    background-size: 98px;
+    background-position: 32px 35px;
 }
 
 
