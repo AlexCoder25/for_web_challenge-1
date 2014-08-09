@@ -125,7 +125,11 @@ section {
 
 .block {
     width: 380px;
+<<<<<<< HEAD
     height: 540px;
+=======
+    height: auto;
+>>>>>>> gh-pages
 
     margin: 0 auto;
     padding-top: 80px;
@@ -153,6 +157,7 @@ main .avatar {
     background-size: 100%;
 }
 
+<<<<<<< HEAD
 main .content {
     margin-top: 40px;
     text-align: center;
@@ -160,18 +165,36 @@ main .content {
 }
 
 main .content .title {
+=======
+main article {
+    margin-top: 40px;
+    text-align: center;
+    font-weight: 300;
+    cursor: default;
+}
+
+main article header .title {
+>>>>>>> gh-pages
     color: #FFFFFF;
     font-size: 1.4rem;
     margin: 0;
 }
 
+<<<<<<< HEAD
 main .content .subtitle {
+=======
+main article header .subtitle {
+>>>>>>> gh-pages
     color: #648EC6;
     font-size: 1.15rem;
     margin: .4rem;
 }
 
+<<<<<<< HEAD
 main .content .sign {
+=======
+main article .sign {
+>>>>>>> gh-pages
     width: 36px;
     height: 17px;
 
@@ -184,7 +207,11 @@ main .content .sign {
     background-position: center;
 }
 
+<<<<<<< HEAD
 main .content .lead {
+=======
+main article aside {
+>>>>>>> gh-pages
     padding-left: 50px;
     padding-right: 50px;
 
@@ -198,11 +225,19 @@ main .content .lead {
 main footer .social {
     padding-left: 60px;
     padding-right: 60px;
+<<<<<<< HEAD
 
     margin: 6rem 0 0;
 
     text-align: center;
     padding: 0;
+=======
+    padding-bottom: 60px;
+    margin: 6em 0 0 0;
+
+
+    text-align: center;
+>>>>>>> gh-pages
     list-style: none;
 }
 
@@ -263,6 +298,7 @@ main footer .social li {
 
 .social .icon-linked_in a {
     width: 33px;
+<<<<<<< HEAD
     height: 32px;
 
     -webkit-background-size: 100px;
@@ -277,6 +313,22 @@ main footer .social li {
     -webkit-background-size: 101px;
     background-size: 101px;
     background-position: 33px 35px;
+=======
+    height: 31px;
+
+    -webkit-background-size: 98px;
+    background-size: 98px;
+    background-position: 32px 1px;
+}
+.social .icon-linked_in a:hover {
+    width: 33px;
+    height: 31px;
+    opacity: 1;
+
+    -webkit-background-size: 98px;
+    background-size: 98px;
+    background-position: 32px 35px;
+>>>>>>> gh-pages
 }
 
 
