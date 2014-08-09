@@ -160,13 +160,13 @@ main article {
     cursor: default;
 }
 
-main article .title {
+main article header .title {
     color: #FFFFFF;
     font-size: 1.4rem;
     margin: 0;
 }
 
-main article .subtitle {
+main article header .subtitle {
     color: #648EC6;
     font-size: 1.15rem;
     margin: .4rem;
@@ -185,7 +185,7 @@ main article .sign {
     background-position: center;
 }
 
-main article .lead {
+main article aside {
     padding-left: 50px;
     padding-right: 50px;
 
